@@ -1,4 +1,3 @@
-php_check_syntax: HI
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,6 @@ php_check_syntax: HI
     <title>Document</title>
 </head>
 <body>
-    
+
 </body>
 </html>
